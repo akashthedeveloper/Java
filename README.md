@@ -1,2 +1,2 @@
 # Java
-Notes of Java and problems solved
+Notes of Java and Problems solved during learning the language
